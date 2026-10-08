@@ -13,8 +13,13 @@ By the end of this lab you will be able to:
 
 Exercise Topic
 1 Set up your CUDA environment in Google Colab
+
 2 Your first kernel: adding two numbers
+
 3 Vector addition with 512 blocks and one thread each
+
 4 Vector addition with one block and 512 threads
+
 5 Multiplying two 10,000,000-element vectors (blocks and threads)
+
 6 Multiplying two 10,000 × 10,000 matrices element by element (2D grid)
